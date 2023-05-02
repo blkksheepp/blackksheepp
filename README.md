@@ -1,16 +1,15 @@
-### Hi there 👋
+<hr>
+<img src="https://avatars.githubusercontent.com/u/55656569?v=4">
+<hr>
+<br>
+<h3><strong>no shit, i'm here to work on open source projects.</strong></h3>
+<br>
+<h4>what i've been doin till now</h4>
+<h5>worked on numerous telegram bots using python
+so most of my experience is  in python.</h5>
 
-<!--
-**blackksheepp/blackksheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h4>what i'm looking forward to</h4>
+<h5>focusing to shift towards web development
+currently learning things by making personal projects.</h5>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

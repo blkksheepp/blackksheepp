@@ -1,7 +1,7 @@
-<hr>
+
 <img src="https://avatars.githubusercontent.com/u/55656569?v=4">
 <hr>
-<br>
+
 <h3><strong>no shit, i'm here to work on open source projects.</strong></h3>
 <br>
 <h4>what i've been doin till now</h4>
